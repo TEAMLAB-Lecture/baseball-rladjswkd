@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import random_number
+import random
 
 # 1. 입력 오류 처리
 #   a. 문자 포함
