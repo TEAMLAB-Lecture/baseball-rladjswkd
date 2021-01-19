@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-import random
-from mock import patch
+import random_number
+
 # 1. 입력 오류 처리
 #   a. 문자 포함
 #   b. 실수 입력
